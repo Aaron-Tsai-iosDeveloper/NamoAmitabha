@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cherry_blossom",
+    "name": "一念櫻生",
+    "type": "video",
+    "version": 1,
+    "thumbnailUrl": "https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-backgrounds/thumbnails/bg_cherry_blossom.png",
+    "fileUrl": "https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-backgrounds/videos/bg_cherry_blossom.mp4",
+    "fileSize": 16148070
+  },
+  {
+    "id": "mountain_stream",
+    "name": "清涼覺明",
+    "type": "video",
+    "version": 1,
+    "thumbnailUrl": "https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-backgrounds/thumbnails/bg_mountain_stream.png",
+    "fileUrl": "https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-backgrounds/videos/bg_mountain_stream.mp4",
+    "fileSize": 21915238
+  },
+  {
+    "id": "dappled_light",
+    "name": "浮光簾影",
+    "type": "video",
+    "version": 1,
+    "thumbnailUrl": "https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-backgrounds/thumbnails/bg_dappled_light.png",
+    "fileUrl": "https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-backgrounds/videos/bg_dappled_light.mp4",
+    "fileSize": 24746394
+  },
+  {
+    "id": "rain_serenity",
+    "name": "簷雨心安",
+    "type": "video",
+    "version": 1,
+    "thumbnailUrl": "https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-backgrounds/thumbnails/bg_rain_serenity.png",
+    "fileUrl": "https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-backgrounds/videos/bg_rain_serenity.mp4",
+    "fileSize": 23697818
+  },
+  {
+    "id": "sunrise_glow",
+    "name": "照空大千",
+    "type": "image",
+    "version": 1,
+    "thumbnailUrl": "https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-backgrounds/thumbnails/bg_sunrise_glow.png",
+    "fileUrl": "https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-backgrounds/images/bg_sunrise_glow.png",
+    "fileSize": 2202010
+  },
+  {
+    "id": "shimmering_waves",
+    "name": "琉光輝映",
+    "type": "image",
+    "version": 1,
+    "thumbnailUrl": "https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-backgrounds/thumbnails/bg_shimmering_waves.png",
+    "fileUrl": "https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-backgrounds/images/bg_shimmering_waves.png",
+    "fileSize": 2306867
+  },
+  {
+    "id": "serene_ocean",
+    "name": "自靜定海",
+    "type": "image",
+    "version": 1,
+    "thumbnailUrl": "https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-backgrounds/thumbnails/bg_serene_ocean.png",
+    "fileUrl": "https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-backgrounds/images/bg_serene_ocean.png",
+    "fileSize": 2621440
+  },
+  {
+    "id": "starry_sky",
+    "name": "夜明星辰",
+    "type": "image",
+    "version": 1,
+    "thumbnailUrl": "https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-backgrounds/thumbnails/bg_starry_sky.png",
+    "fileUrl": "https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-backgrounds/images/bg_starry_sky.png",
+    "fileSize": 4613735
+  }
+]
