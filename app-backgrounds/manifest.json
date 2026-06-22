@@ -9,13 +9,13 @@
     "fileSize": 16148070
   },
   {
-    "id": "mountain_stream",
+    "id": "leisurely_flow",
     "name": "清涼覺明",
     "type": "video",
     "version": 1,
-    "thumbnailUrl": "https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-backgrounds/thumbnails/bg_mountain_stream.png",
-    "fileUrl": "https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-backgrounds/videos/bg_mountain_stream.mp4",
-    "fileSize": 21915238
+    "thumbnailUrl": "https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-backgrounds/thumbnails/bg_leisurely_flow.png",
+    "fileUrl": "https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-backgrounds/videos/bg_leisurely_flow.mp4",
+    "fileSize": 39740313
   },
   {
     "id": "dappled_light",
