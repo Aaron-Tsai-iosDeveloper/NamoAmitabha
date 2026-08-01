@@ -1,8 +1,4 @@
-# app-announcements — 公告內容來源
-
-這個資料夾是 App「公告」功能的**遠端內容來源**。把整個資料夾上傳到
-GitHub repo `Aaron-Tsai-iosDeveloper/NamoAmitabha`（與 `app-backgrounds` 同層），
-App 就會透過 jsdelivr CDN 抓取：
+# app-announcements
 
 ```
 https://cdn.jsdelivr.net/gh/Aaron-Tsai-iosDeveloper/NamoAmitabha@main/app-announcements/manifest.json
