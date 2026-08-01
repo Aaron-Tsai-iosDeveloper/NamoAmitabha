@@ -1,0 +1,18 @@
+[
+  {
+    "id": "dev-intro",
+    "version": 1,
+    "date": "2026-08-01",
+    "pinned": true,
+    "title": {
+      "zh": "開發初衷",
+      "en": "A Note from the Developer",
+      "ja": "開発の想い",
+      "ko": "개발 취지",
+      "vi": "Lời ngỏ từ nhà phát triển",
+      "de": "Ein Wort des Entwicklers",
+      "fr": "Un mot du développeur"
+    },
+    "langs": ["zh", "en", "ja", "ko", "vi", "de", "fr"]
+  }
+]
