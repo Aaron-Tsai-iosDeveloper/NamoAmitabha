@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-
 https://raw.githubusercontent.com/Aaron-Tsai-iosDeveloper/NamoAmitabha/main/app-announcements/<id>/<lang>.md
 ```
 
-App 內也內建了同一份（`amitabha/assets/announcements/`）作為離線／首次啟動的預設；
+App 內也內建了同一份（`amitabha/assets/content/announcements/`）作為離線／首次啟動的預設；
 偵測到遠端 `version` 較新時就會抓下新版覆蓋本地快取。
 
 > 推上 GitHub 後約 5 分鐘內生效，不需要清任何快取。
